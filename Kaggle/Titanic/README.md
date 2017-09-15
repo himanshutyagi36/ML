@@ -1,0 +1,2 @@
+Titanic: Machine Learning from diaster.
+Following the tutorial https://www.kaggle.com/startupsci/titanic-data-science-solutions to understand the concepts and thought process of attacking a ML problem.
