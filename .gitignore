@@ -2,3 +2,5 @@
 .v*
 NBAStats/ProblemStatement
 NBAStats/data/*
+.ipynb_checkpoints
+
